@@ -1,5 +1,5 @@
 # Hash-based Signature Schemes
-A VHDL implementation of the XMSS and LMS signature schemes.
+A VHDL implementation of the XMSS and LMS signature schemes from the paper `Agile Acceleration of Stateful Hash-Based Signatures in Hardware`.
 
 ## Setup
 The supplied Makefile creates a .vivado subdirectory, initializes a vivado
