@@ -11,3 +11,10 @@ To use the Makefile, the `VIVADO` parameter must point to a vivado installation.
 
 To initialize the project without make, execute:
 ```/path/to/vivado -mode tcl -source setup_project.tcl```
+
+
+This project was supported through:
+
+    the Federal Ministry of Education and Research of Germany QuantumRISC project (16KIS1038)
+    the Federal Ministry of Education and Research of Germany PQC4Med project (16KIS1044)
+    the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy - EXC 2092 CASA - 390781972
